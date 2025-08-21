@@ -1,1 +1,3 @@
-- Eric Railef: Aprendiendo a usar GitHub
+- Kevin bustos: Aprendiendo a usar GitHub
+
+este archivo pertenece al partido comunista
