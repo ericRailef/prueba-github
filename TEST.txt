@@ -1,3 +1,4 @@
-- Eric Railef: Aprendiendo a usar GitHub
+- Edgard Machuca: Aprendiendo a usar GitHub
 
-- Edgard Machuca : Pokemon
+Pokemon
+
